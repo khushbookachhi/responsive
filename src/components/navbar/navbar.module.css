@@ -1,0 +1,70 @@
+.navbar{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(./image/computer.jpg);
+    background-position:center;
+    background-size: cover;
+    width: 100vw;
+    height: 22rem;
+  
+}
+.heading{
+    left:5vw;
+    top:15rem;
+}
+.modalbtn{
+    cursor: pointer;
+}
+.modalbodyleft{
+width: 45%;
+}
+.modalbodyright{
+    width: 50%;
+}
+.modalbodyright img{
+width:80%;
+}
+.eye{
+    right:4px;
+    top:50%;
+    transform: translateY(-50%);
+}
+.createbtn{
+    width: 100%;
+}
+.joingroup{
+    display: none;
+}
+
+@media (max-width:992px){
+    .showNavRight{
+        display: none;
+    }
+    .joingroup{
+        display: block;
+    }
+    .createUser{
+       position:  relative !important;
+       right:0;
+    }
+    .modalbodyright img{
+        display: none;
+    }
+    .modalTitle{
+        display: none !important;
+      
+    }
+    .modalBody{
+        display: block !important;
+    }
+    .modalbodyleft{
+        width: 100%;
+        }
+    .modalbodyleft form{
+        width: 100% !important;
+    }
+    .modalbodyright{
+        width: 100% !important;
+    }
+    .modalbodyright p{
+    margin-top: 1rem;
+    }
+}

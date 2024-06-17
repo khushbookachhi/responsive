@@ -1,0 +1,43 @@
+.container{
+height: 30vh;
+}
+.posts{
+    width: 57%;
+}
+.rightSide{
+    width:30%;
+    
+}
+.icon{
+    position: absolute;
+    top:50%;
+    left:4px;
+    transform: translateY(-50%);
+}
+
+@media (max-width:1000px){
+    .rightSide{
+        width:35%;
+        
+    }
+    
+}
+
+@media (max-width:992px){
+    .rightSide{
+        width:40%;
+        
+    }
+    .recommond{
+        font-size:0.8rem !important;
+    }
+}
+@media (max-width:720px){
+    .rightSide{
+        display: none;
+    }
+    .posts{
+        width: 100%;
+    }
+
+}

@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "title": "Engineers Week: 'Computer engineers pave the way for the future'",
+        "description": "Joshua Perkins, a junior at Missouri S&T, has long been interested in having a career as a computer engineer. The reason why?",
+        "category": "Article",
+        "image": "https://plus.unsplash.com/premium_photo-1718198501646-a95f049e39b5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHx8",
+       "views":"1.4k",
+        "User":"Sarthak Kamra"
+    },
+    {
+        "id": 2,
+        "title": "Enrollments in Computer Engineering surge, mechanical sees a dip: AISHE Report",
+        "description": "Student enrollments in Computer Engineering has gone up by nearly 38 per cent in the past three years as the number increased from 9.3 lakh in 2019-20 to 12 lakh in 2021-22, a recent government survey revealed.",
+        "category": "Article",
+        "image": "https://images.indianexpress.com/2024/01/AISHE-Report-2021-22.jpg?w=640",
+       "views":"1.4k",
+        "User":"Abhinav Saha"
+    },
+    {
+        "id": 3,
+        "title": "What’s the difference between data science and computer science?",
+        "description": "Computer science interacts with data, and data science interacts with computers. Some schools have schools have distinct computer science and data science programs. Others combine them into one.",
+        "category": "Article",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2024/01/Data-science-vs-computer-science-GettyImages-1493271329-e1706566932698.jpg?w=1440&q=75",
+       "views":"1.4k",
+        "User":"Rishika Prajapati"
+    },
+    {
+        "id": 4,
+        "title": "UC engineering student merges human language, computer science",
+        "description": "Zedong Peng came to the University of Cincinnati to continue his research in software engineering, focusing on natural language processing and metamorphic testing.",
+        "category": "Event",
+        "image": "https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y29tcHV0ZXIlMjBzY2llbmNlfGVufDB8fDB8fHww",
+       "views":"1.4k",
+        "User":"Vipin Raj"
+    },
+    {
+        "id": 5,
+        "title": "Top Government IT Jobs For Computer Science in 2023",
+        "description": "The government departments that require a computer science graduate are Railways, Defence, Police departments, PSUs, Banking sectors, BSNL etc. Read the article to know the top ten government sectors that hire IT/CSE graduates all over the country.",
+        "category": "Event",
+        "image": "https://img.jagranjosh.com/images/2023/September/2292023/top-government-jobs.webp",
+       "views":"1.4k",
+        "User":"Mohammad Nafees"
+    },
+    {
+        "id": 6,
+        "title": "Method identified to double computer processing speeds",
+        "description": "Tseng explained that today’s computer devices increasingly have graphics processing units (GPUs), hardware accelerators for artificial intelligence (AI) and machine learning (ML), or digital signal processing units as essential components.",
+        "category": "Education",
+        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+       "views":"1.4k",
+        "User":"Affiya Bano"
+    },
+    {
+        "id": 7,
+        "title": "What is USB-C? A computer engineer explains the one device connector to rule them all",
+        "description": "Apple announced on Sept. 12, 2023, that it plans to adopt the USB-C connector for all four new iPhone 15 models, helping USB-C become the connector of choice of the electronics industry, nine years after its debut.",
+        "category": "Education",
+        "image": "https://images.unsplash.com/photo-1619459072761-496c0812331b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+       "views":"1.4k",
+        "User":"Affiya Bano"
+    },
+    {
+        "id": 7,
+        "title": "Programmer Analyst",
+        "company":"Cognizant",
+         "category": "Job",
+         "location":"Pune,India",
+        "views":"1.4k",
+         "User":"Vipin Rajak"
+    },
+    {
+        "id": 8,
+        "title": "Software Developer",
+       "company":"Innovaccer Analytics Private Ltd.",
+        "category": "Job",
+        "location":"Noida,India",
+       "views":"1.4k",
+        "User":"Affiya Bano"
+    }
+
+]

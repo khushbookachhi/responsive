@@ -1,0 +1,31 @@
+.card{
+    width:100%;
+    height:auto;
+}
+.card img{
+    height: 11rem;
+}
+.profile img{
+    width: 2rem;
+    height: 2rem;
+    border:1px solid grey;
+    border-radius: 50%;
+}
+.threeDot{
+   height:2rem !important; 
+   padding: 0;
+}
+
+
+@media (max-width:576px){
+    .title,.cardtext{
+        font-size: 0.9rem !important;
+    }
+    .viewsShare span{
+        font-size: 0.7rem !important;
+    }
+    .profile h3{
+        font-size: 0.9rem !important;
+    }
+
+}
